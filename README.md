@@ -52,10 +52,10 @@
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/reyhan-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/reynkes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/@reyhan-medium" target="_blank">
+  <a href="https://medium.com/@reynkes" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
