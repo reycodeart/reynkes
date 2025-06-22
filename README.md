@@ -1,62 +1,85 @@
 ---
-### 👩‍💻 Reyhan here — `Cybersecurity Explorer | Blue Team Defender`
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:0f0f0f&height=250&section=header&text=Welcome%20to%20My%20World%20👾&fontColor=ffffff&fontSize=35&desc=Blue%20Team%20%7C%20Python%20%7C%20AI%20Security&descSize=20&descAlign=65"/>
-</div>
+<h1 align="center">Hey 👋, I'm Reyhan</h1>
+<h3 align="center">💻 Blue Team Defender | Pythonist | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=fff"/>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Information Systems Engineering student @ MSKÜ
-- 🔐 Passionate about **Blue Team** operations & **SOC analysis**
-- 🤖 Building projects with **Python**, **AI** & security logs
-- 📈 Currently building: `WinLogGuardian AI`
-- ✍️ Writing posts on Medium (technical writeups & Blue Team tutorials)
+- 🎓 I'm an Information Systems Engineering student at **MSKÜ**
+- 🛡️ Passionate about **Blue Team** operations & SOC tools
+- 🐍 Python Developer with a focus on **Security & Automation**
+- 🤖 Exploring AI applications in cybersecurity
+- 🧪 Building: `WinLogGuardian AI` – an AI-based Windows log anomaly detector
+- ✍️ I write technical content on Medium about my Blue Team journey
 
 ---
 
-## 🛠️ Languages & Tools
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,vscode,html,css,javascript,react,figma,github&theme=dark" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=reycodeart&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reycodeart&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=reycodeart&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Highlighted Projects
+
+- 🛡️ [`WinLogGuardian AI`](https://github.com/reycodeart/winlogguardian-ai): Offline anomaly detection on Windows Event Logs using machine learning
+- 🎮 [`SkillQuest`](https://github.com/reycodeart/skillquest): AI-generated challenges for Gen Z, combining fun & habit-forming learning
+- 🕵️ [`ThreatHunt-OSQuery`](https://github.com/reycodeart/threathunt-osquery): Real-world IOC detection using OSQuery
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,vscode,git,github,figma,html,css,javascript,react"/>
+  <a href="https://www.linkedin.com/in/reyhan-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@reyhan-medium" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 💬 Quote of the Day
+
+> "Security is not a product, but a process." — **Bruce Schneier**
+
+---
+
+## ☕ Support
+
+If you enjoy my work and want to support my journey, consider buying me a coffee:
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/reycodeart" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reycodeart&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reycodeart&layout=compact&theme=radical" width="45%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reycodeart&theme=radical&hide_border=false" width="80%"/>
-</p>
-
----
-
-## 💻 Featured Projects
-
-- 🛡️ **WinLogGuardian AI** – Anomaly detection on Windows Logs using ML
-- 🧠 **SkillQuest** – Gamified learning powered by AI
-- 🔍 **ThreatHunt-OSQuery** – IOC Detection using OSQuery scripts
-
----
-
-## 📬 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reyhan-linkedin)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@reyhan-medium)
-
----
-
-## 🧠 Random Dev Quote
-> "Security is not a product, but a process." — Bruce Schneier
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=footer"/>
-</div>
